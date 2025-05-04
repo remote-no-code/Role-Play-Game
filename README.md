@@ -1,4 +1,4 @@
-# 🛡️ RPG Adventure Game
+# 🛡️ RPG Adventure Game - SEM 2 SDF 
 
 **A modular, object-oriented text-based RPG (Role-Playing Game)** developed in C++.  
 Embark on an epic quest where heroes, monsters, companions, quests, and the vast world map await!
